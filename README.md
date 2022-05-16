@@ -11,21 +11,11 @@ Framework for Man-In-The-Middle attacks
 
 **This project is no longer being updated. MITMf was written to address the need, at the time, of a modern tool for performing Man-In-The-Middle attacks. Since then many other tools have been created to fill this space, you should probably be using [Bettercap](https://github.com/bettercap/bettercap) as it is far more feature complete and better maintained.**
 
-Quick tutorials, examples and developer updates at: https://byt3bl33d3r.github.io
 
-This tool is based on [sergio-proxy](https://github.com/supernothing/sergio-proxy) and is an attempt to revive and update the project.
 
-Contact me at:
-- Twitter: @byt3bl33d3r
-- IRC on Freenode: #MITMf
-- Email: byt3bl33d3r@protonmail.com
 
-**Before submitting issues, please read the relevant [section](https://github.com/byt3bl33d3r/MITMf/wiki/Reporting-a-bug) in the wiki .**
 
-Installation
-============
 
-Please refer to the wiki for [installation instructions](https://github.com/byt3bl33d3r/MITMf/wiki/Installation)
 
 Description
 ============
@@ -160,12 +150,4 @@ For a complete list of available options, just run ```python mitmf.py --help```
 - **SMBAuth**          : Evoke SMB challenge-response authentication attempts
 - **Upsidedownternet** : Flips images 180 degrees
 - **Captive**          : Creates a captive portal, redirecting HTTP requests using 302
-
-# How to fund my tea & sushi reserve
-
-BTC: 1ER8rRE6NTZ7RHN88zc6JY87LvtyuRUJGU
-
-ETH: 0x91d9aDCf8B91f55BCBF0841616A01BeE551E90ee
-
-LTC: LLMa2bsvXbgBGnnBwiXYazsj7Uz6zRe4fr
 
